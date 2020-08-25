@@ -10,7 +10,6 @@ module.exports = {
   },
   rules: {
     'prettier/prettier': 'error',
-    'linebreak-style': ['error', 'windows'],
     quotes: ['error', 'single'],
     semi: ['error', 'never'],
   },
